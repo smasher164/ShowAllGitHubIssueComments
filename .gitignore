@@ -1,0 +1,8 @@
+# Ignore everything
+*
+# Whitelist the following extensions
+!.gitignore
+!*.go
+!*.md
+!*.json
+!*.js
